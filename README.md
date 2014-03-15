@@ -1,7 +1,7 @@
 Mediterranean Eclipse GTK3 Theme
 ================================
 
-GTK3 Theme for Ubuntu 14.04 based on MediterraneanNight Series.
+GTK3 Theme for Ubuntu 14.04 based on [MediterraneanNight Series](http://gnome-look.org/content/show.php/MediterraneanNight+Series?content=156782).
 
 This is a working in progress and it's on a very early alpha stage (very unstable).
 
