@@ -8,9 +8,9 @@ This is a working in progress and it's on a very early alpha stage (very unstabl
 Credits
 =======
 
-* [MediterraneanNight](http://gnome-look.org/content/show.php/MediterraneanNight+Series?content=156782) Series series themes were created by [Rafa Cobreros](http://gnome-look.org/usermanager/search.php?username=trastes)
+* [MediterraneanNight Series](http://gnome-look.org/content/show.php/MediterraneanNight+Series?content=156782) themes were created by [Rafa Cobreros](http://gnome-look.org/usermanager/search.php?username=trastes)
 
-* Original Unity theme from [Moka](http://gnome-look.org/content/show.php/Moka+GTK3+Theme?content=160565) by [Sam Hewitt](http://gnome-look.org/usermanager/search.php?username=snwh)
+* Original Unity theme from [Moka](http://gnome-look.org/content/show.php/Moka+GTK3+Theme?content=160565) by [Sam Hewitt](http://snwh.org/) - [Moka Project](http://mokaproject.com/)
  
 License
 =======
