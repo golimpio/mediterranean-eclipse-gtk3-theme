@@ -5,6 +5,8 @@ GTK3 Theme for Ubuntu 14.04 based on MediterraneanNight Series.
 
 This is a working in progress and it's on a very early alpha stage (very unstable).
 
+![Files (Nautilus)](screenshot-nautilus-1.png)
+
 Credits
 =======
 
