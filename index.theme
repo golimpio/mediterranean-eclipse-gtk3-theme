@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=MediterraneanEclipse
+Comment=Mediterranean Eclipse theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=MediterraneanEclipse
+MetacityTheme=MediterraneanEclipse
+IconTheme=Numix-Circle
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
