@@ -1,4 +1,4 @@
-Mediterranean Eclipse GTK3 Theme
+MediterraneanEclipse GTK3 Theme
 ================================
 
 GTK3 Theme for Ubuntu 14.04 based on [MediterraneanNight Series](http://gnome-look.org/content/show.php/MediterraneanNight+Series?content=156782).
