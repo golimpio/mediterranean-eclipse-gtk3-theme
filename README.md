@@ -21,3 +21,7 @@ License
 =======
 
 [GPL - GNU General Public License](https://www.gnu.org/copyleft/gpl.html)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/golimpio/mediterranean-eclipse-gtk3-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
